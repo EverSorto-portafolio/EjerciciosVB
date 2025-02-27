@@ -1,0 +1,14 @@
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\bin\Debug\net8.0\ejercicioSemana6.exe
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\bin\Debug\net8.0\ejercicioSemana6.deps.json
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\bin\Debug\net8.0\ejercicioSemana6.runtimeconfig.json
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\bin\Debug\net8.0\ejercicioSemana6.dll
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\bin\Debug\net8.0\ejercicioSemana6.pdb
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.AssemblyInfoInputs.cache
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.AssemblyInfo.vb
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.vbproj.CoreCompileInputs.cache
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.dll
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\refint\ejercicioSemana6.dll
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.pdb
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.genruntimeconfig.cache
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ref\ejercicioSemana6.dll
