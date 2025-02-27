@@ -29,4 +29,23 @@
 
     End Function
 
+    Function ejemploDoWhileLoop(number As Integer)
+        Dim valor As Integer
+        valor = 0
+        Do While valor < number
+            Console.WriteLine(valor * valor)
+            valor = valor + 1
+        Loop
+    End Function
+
+    Function ejemploDWhileLoop(number As Integer)
+        Dim valor As Integer
+        valor = 100
+        Do
+
+            Console.WriteLine(number)
+            number = number + 1
+        Loop While valor > number
+    End Function
+
 End Class

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ejercicioSemana6"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60bf4f84b95a66b25b03d5ea0940551bc131a953"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ejercicioSemana6"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ejercicioSemana6"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

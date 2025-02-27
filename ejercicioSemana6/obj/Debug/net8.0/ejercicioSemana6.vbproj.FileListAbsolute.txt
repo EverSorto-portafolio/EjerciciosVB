@@ -12,3 +12,4 @@ C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug
 C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.pdb
 C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.genruntimeconfig.cache
 C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ref\ejercicioSemana6.dll
+C:\Users\Ever\Documents\programacion\ejercicioSemana6\ejercicioSemana6\obj\Debug\net8.0\ejercicioSemana6.sourcelink.json
